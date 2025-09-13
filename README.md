@@ -4,7 +4,7 @@ This repo contains practical implementations of Machine Learning algorithms — 
 
 ---
 
-## 📁 Current Dataset Used: EuroSAT
+## 📁 Dataset Description: EuroSAT
 
 - *Dataset*: [EuroSAT Dataset on Kaggle](https://www.kaggle.com/datasets/apollo2506/eurosat-dataset)
 - *Description*: This dataset contains **27,000+ RGB satellite images** classified into **10 land use and land cover categories** such as Forest, Residential, River, etc. It is widely used for **remote sensing** and **land classification** tasks.
